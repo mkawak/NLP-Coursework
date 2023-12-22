@@ -1,0 +1,11 @@
+word,emotion,score
+joy,positive,1
+sadness,negative,1
+happy,positive,1
+anger,negative,1
+delight,positive,1
+fear,negative,1
+love,positive,1
+hate,negative,1
+peace,positive,1
+stress,negative,1
